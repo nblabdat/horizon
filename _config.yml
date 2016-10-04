@@ -6,9 +6,9 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
 author_name:        "nethorizon"
-author_email:       -
-author_gravatar:    - # Gravatar md5 hash
-twitter_username:   -
+author_email:       "nblsysadm@gmail.com"
+author_gravatar:    "-" # Gravatar md5 hash
+twitter_username:   "-"
 
 # Site Settings
 baseurl:            "/nethorizon.github.io" # Base URL must end WITHOUT a slash, default: ""
